@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    margin-left: 25px;
+    color:black;
+    font-size: 17px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    text-align: center;
+    padding: 2rem 0;
+    position: fixed;
+    margin-left: 15%;
+  
+
+}
+.all{
+    width: 100%; 
+}
+.contain{
+    background-image: url(https://www.simbrella.com/site/assets/files/1040/cover.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 18rem 0;
+    width: 100%;
+    /* color: #fff; */
+    opacity: 2;
+}
+.contain h1{
+    font-size: 50px;
+   margin-left: 15%;
+   width: 70%;
+}
+.contain p{
+    font-size: 20px;
+    margin-top: 10px;
+   margin-left: 15%;
+   width: 70%;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.head h1{
+    color: #2D3192;
+}
+.wwdo{
+    width: 70%;
+    margin-left: 15%;
+}
+.more{
+    border: 1px solid black;
+}
+
+
+    
